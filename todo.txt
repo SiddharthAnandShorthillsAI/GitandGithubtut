@@ -10,4 +10,5 @@ Practice chess openings.
 Solve chess puzzles.
 Check exam schedule.
 Added lots of stuff this one manual
+final test
 
